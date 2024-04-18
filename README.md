@@ -4,5 +4,22 @@
 * No more help needed for finding a spot and parking your vehicles.
 * Parking spots will be pre- labeled and you will be guided to your dedicated spot provided by the system.
 * Higher efficiency.
+
+## Project Objectives and System Overview
+* Ease in vehicle parking system in terms of position planning for drivers to park their vehicles.
+* Helping in modulate the traffic by using scenario thinking.
+* According to the limited space allowing vehicle parking space and modulating the entry and exit sides of the vehicle parking space.
+* Displaying the parking space left on a LCD screen with their serial number helping driver to plan his way by following the number signs in the parking space to park their vehicle and if no space is available displaying all spots are full in the LCD screen.
+* Hardware Requirements:
+* Arduino Uno
+* Breadboard
+* 2 Servo Motors
+* 5 IR Sensors
+* Jump Wires
+* 9V Battery
+  ![image](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/c0db0534-f30c-49dc-ae3e-183fba995994)
+
+
+
 ## PROCESS FLOW DIAGRAM
 ![image](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/9e1ab43e-e8aa-4629-9b93-4d5ea1b11e76)
