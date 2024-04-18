@@ -35,3 +35,8 @@
 * Better driver guidance for going to the free slots/slot.
 * Better traffic management inside the parking space using computer vision. 
 
+![WhatsApp Image 2024-04-18 at 14 17 53_cd339bfa](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/051d8282-6154-4b90-a0a9-0283bde5e7b3)
+![WhatsApp Image 2024-04-18 at 14 17 53_c321f8e8](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/1c651d26-72f2-4373-8930-6924101dcf76)
+![WhatsApp Image 2024-04-18 at 14 17 52_97c67bc3](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/49c025c8-297e-4bcb-98e4-afe8ac5edb0e)
+
+
