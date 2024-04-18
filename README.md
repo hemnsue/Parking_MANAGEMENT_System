@@ -23,3 +23,15 @@
 
 ## PROCESS FLOW DIAGRAM
 ![image](https://github.com/hemnsue/Parking_MANAGEMENT_System/assets/73696432/9e1ab43e-e8aa-4629-9b93-4d5ea1b11e76)
+
+## Cocnclusion
+# Challenges 
+* Getting proper timing tuned for the opening and closing of the gates
+* Sensor placement and tuning of the sensors range
+* LCD display for how to let the driver know of the parking spaces
+# Future Improvements 
+* Using Raspberry Pi instead of Arduino enabling us to use and fuse computer vision and Machine learning algorithms with other sensors, leading to a better, more refined control system with database management of all the vehicles getting in and out. 
+* Using more IR sensors at the entry and exit gates for better control.
+* Better driver guidance for going to the free slots/slot.
+* Better traffic management inside the parking space using computer vision. 
+
